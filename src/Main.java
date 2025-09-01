@@ -10,5 +10,9 @@ public class Main {
         System.out.println(
                 "Bahasa pemrograman favorit saya adalah javascript, java, dan sql, karena saya belajar bahasa tersebut"
         );
+
+        System.out.println(
+                "Hidayat was here!"
+        );
     }
 }
